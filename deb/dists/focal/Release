@@ -1,0 +1,37 @@
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: focal
+Date: Tue, 03 Dec 2024 20:03:56 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+MD5Sum:
+ 269697d69d28d2fefe3e9fe1c813013d 475 main/binary-i386/Packages
+ f6f9d72ccb3d436f0cccd49f338e6472 369 main/binary-i386/Packages.gz
+ cb74fcbcce240dee2da21cb01d6a76b3 133 main/binary-i386/Release
+ dea64cf6080b45cce8afb1b4af6189f9 477 main/binary-amd64/Packages
+ 711a9fdce363597a0429fd69b89d852a 369 main/binary-amd64/Packages.gz
+ fc0d8d063c75a4c7df4479d3e1448675 134 main/binary-amd64/Release
+ e16fe7caa1957d881b3f98b9c36c97ae 477 main/binary-arm64/Packages
+ 673f086c9ff2a0323d659cd9973fdf07 368 main/binary-arm64/Packages.gz
+ a1076e657daa7a7e705b44cca67345fe 134 main/binary-arm64/Release
+SHA1:
+ b699a95feafe35d656b6b59f69bc9b418ad20ccd 475 main/binary-i386/Packages
+ 8a8f952dd5a25db13ff0e5e923735390764cba69 369 main/binary-i386/Packages.gz
+ e0b1fe603b66cc8a6058bff840d95f25f7e82262 133 main/binary-i386/Release
+ 30b0a8b122ab53b6d1b8d89b0b4761e6a4de7008 477 main/binary-amd64/Packages
+ eaeb06c09d99a9f5ee3e47ea9a8e7c8b3485a09f 369 main/binary-amd64/Packages.gz
+ 6e5d26f013d0004b170fc61120ad20fb40741edc 134 main/binary-amd64/Release
+ 826364d99c86510440c4cf7a2bd182b9a9d97734 477 main/binary-arm64/Packages
+ c8668055182511a4718696da0c2328b14ebaa2e9 368 main/binary-arm64/Packages.gz
+ c3a5a6ffb7392a3e607d6d256f874a57ea5f1d56 134 main/binary-arm64/Release
+SHA256:
+ 8cd7815b6441696016cc7a3d9fd59c52423eca82f6909045ed14b0cce733279e 475 main/binary-i386/Packages
+ b7bf4f72b034baaff6dbcc8b49386607ad574d206bb31bea50de0c51ffe58f71 369 main/binary-i386/Packages.gz
+ 6d118db6c4eb67c2471f84de4f44f01f79bc6de87a978fa05a6b3e95e041c573 133 main/binary-i386/Release
+ fcfbb92a33d3a72a01f0777ef920f1eab09a9f2a672a22b2683ed28967e62fde 477 main/binary-amd64/Packages
+ 2a9411b9de9e9f7b352ca26efeb7d38dee94ab774311c11bbfff3663406863ff 369 main/binary-amd64/Packages.gz
+ 3bc16ce39561e34e127476bb470d94843b389ed49673eb32344b353b40ab77f7 134 main/binary-amd64/Release
+ aface911fef143cd8047b69846913f3a946f1333e5a6b50a45b8ff854bb49235 477 main/binary-arm64/Packages
+ 8586dd570e59079a1223f08e22388887a026d658e459c8dc72b25830c034084f 368 main/binary-arm64/Packages.gz
+ 24e35836d026cc2c006bedf1848aa1f093217916608227fbb7facb6e90048d5a 134 main/binary-arm64/Release

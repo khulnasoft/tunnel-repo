@@ -1,0 +1,143 @@
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: kinetic
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: jammy
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: impish
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: wheezy
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: jessie
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: stretch
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: buster
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: bullseye
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: bookworm
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: trusty
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: xenial
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: bionic
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: eoan
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: focal
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: lunar
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: mantic
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: noble
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
+
+Origin: aquasecurity.github.io/trivy-repo/deb
+Label: github.io/aquasecurity
+Codename: generic
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
