@@ -1,13 +1,13 @@
-Package: trivy
+Package: tunnel
 Version: 0.29.2
 Architecture: arm64
-Maintainer: Teppei Fukuda <knqyf263@gmail.com>
-Vendor: aquasecurity
+Maintainer: Md Sulaiman <dev.sulaiman@icloud.com>
+Vendor: khulnasoft
 Installed-Size: 86992
-Homepage: https://github.com/aquasecurity
+Homepage: https://github.com/khulnasoft
 Priority: optional
 Section: 
-Filename: pool/main/t/trivy/trivy_0.29.2_arm64.deb
+Filename: pool/main/t/tunnel/tunnel_0.29.2_arm64.deb
 Size: 26985492
 SHA256: 90f3798ed7a40a624c4b3f56359c3ac2d2c09224263d970829446746620a6e23
 SHA1: b59d2a5ee2d1e792312bfa250331cec1b00337e0

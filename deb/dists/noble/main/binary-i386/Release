@@ -1,5 +1,5 @@
 Component: main
-Origin: aquasecurity.github.io/trivy-repo/deb
-Label: github.io/aquasecurity
+Origin: khulnasoft.github.io/tunnel-repo/deb
+Label: github.io/khulnasoft
 Architecture: i386
-Description: Trivy repository
+Description: Tunnel repository

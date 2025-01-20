@@ -1,14 +1,14 @@
-# trivy-repo
-deb/rpm repository for Trivy
+# tunnel-repo
+deb/rpm repository for Tunnel
 
 ## Debian/Ubuntu
 
 ```
 $ sudo apt-get install wget apt-transport-https gnupg
-$ wget -qO - https://aquasecurity.github.io/trivy-repo/deb/public.key | gpg --dearmor | sudo tee /usr/share/keyrings/trivy.gpg > /dev/null
-$ echo "deb [signed-by=/usr/share/keyrings/trivy.gpg] https://aquasecurity.github.io/trivy-repo/deb generic main" | sudo tee -a /etc/apt/sources.list.d/trivy.list
+$ wget -qO - https://khulnasoft.github.io/tunnel-repo/deb/public.key | gpg --dearmor | sudo tee /usr/share/keyrings/tunnel.gpg > /dev/null
+$ echo "deb [signed-by=/usr/share/keyrings/tunnel.gpg] https://khulnasoft.github.io/tunnel-repo/deb generic main" | sudo tee -a /etc/apt/sources.list.d/tunnel.list
 $ sudo apt-get update
-$ sudo apt-get install trivy
+$ sudo apt-get install tunnel
 ```
 
 ## RHEL/CentOS
@@ -16,22 +16,22 @@ $ sudo apt-get install trivy
 Add repository setting
 
 ```
-$ sudo tee /etc/yum.repos.d/trivy.repo << 'EOF'
-[trivy]
-name=Trivy repository
-baseurl=https://aquasecurity.github.io/trivy-repo/rpm/releases/$basearch/
+$ sudo tee /etc/yum.repos.d/tunnel.repo << 'EOF'
+[tunnel]
+name=Tunnel repository
+baseurl=https://khulnasoft.github.io/tunnel-repo/rpm/releases/$basearch/
 gpgcheck=1
 enabled=1
-gpgkey=https://aquasecurity.github.io/trivy-repo/rpm/public.key
+gpgkey=https://khulnasoft.github.io/tunnel-repo/rpm/public.key
 EOF
 ```
 Using `yum`:
 ```
 $ sudo yum -y update
-$ sudo yum -y install trivy
+$ sudo yum -y install tunnel
 ```
 Using `dnf`:
 ```
 $ sudo dnf -y update
-$ sudo dnf -y install trivy
+$ sudo dnf -y install tunnel
 ```

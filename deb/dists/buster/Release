@@ -1,10 +1,10 @@
-Origin: knqyf263.github.io/trivy-repo/deb
+Origin: knqyf263.github.io/tunnel-repo/deb
 Label: github.io/knqyf263
 Codename: buster
 Date: Tue, 01 Aug 2023 15:19:47 UTC
 Architectures: i386 amd64 arm64
 Components: main
-Description: Trivy repository
+Description: Tunnel repository
 MD5Sum:
  9d12a290dab904cfd329ecd96b3a5f80 496 main/binary-i386/Packages
  e65db4a0fc982e982b10b735f06f8816 377 main/binary-i386/Packages.gz
