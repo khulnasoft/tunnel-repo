@@ -1,10 +1,10 @@
-Origin: aquasecurity.github.io/trivy-repo/deb
-Label: github.io/aquasecurity
+Origin: khulnasoft.github.io/tunnel-repo/deb
+Label: github.io/khulnasoft
 Codename: trusty
 Date: Mon, 22 Apr 2024 14:20:00 UTC
 Architectures: i386 amd64 arm64
 Components: main
-Description: Trivy repository
+Description: Tunnel repository
 MD5Sum:
  786ee68753b3da240c6f9bac46c0d3f3 475 main/binary-i386/Packages
  946d6fca18550cbd0d1f895a74023e28 368 main/binary-i386/Packages.gz

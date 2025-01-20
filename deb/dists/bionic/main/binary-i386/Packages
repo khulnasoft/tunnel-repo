@@ -1,12 +1,12 @@
-Package: trivy
+Package: tunnel
 Version: 0.58.0
 Architecture: i386
-Maintainer: Teppei Fukuda <knqyf263@gmail.com>
+Maintainer: Md Sulaiman <dev.sulaiman@icloud.com>
 Installed-Size: 120228
-Homepage: https://github.com/aquasecurity
+Homepage: https://github.com/khulnasoft
 Priority: optional
 Section: 
-Filename: pool/main/t/trivy/trivy_0.58.0_i386.deb
+Filename: pool/main/t/tunnel/tunnel_0.58.0_i386.deb
 Size: 36898994
 SHA256: 7327c5bca44801b19f24e55f1c18d95165cf3ea604ff2259d867ee4a002812d9
 SHA1: 566d5d2a816916b99e1d7c376cc4baea25c9371f
